@@ -59,6 +59,19 @@ For a summary of the value of these API changes, as well as recent tools, compon
 | Addition | beta | Added the [getAllMessages](/graph/api/chats-getallmessages?view=graph-rest-beta&preserve-view=true) method to the [chat](/graph/api/resources/chat?view=graph-rest-beta&preserve-view=true) resource collection.|
 | Addition | beta | Added the [getAllMessages](/graph/api/channels-getallmessages?view=graph-rest-beta&preserve-view=true) method to the [channel](/graph/api/resources/channel?view=graph-rest-beta&preserve-view=true) resource collection.|
 
+### Identity and access | Devices
+
+| **Change type** | **Version** | **Description** |
+|:---|:---|:---|
+| Addition | beta | Added the **deviceCategory** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **deviceOwnership** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **domainName** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **enrollmentProfileName** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **enrollmentType** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **isRooted** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **managementType** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+| Addition | beta | Added the **registrationDateTime** property to [device](https://docs.microsoft.com/en-us/graph/api/resources/device?view=graph-rest-beta) resource. |
+
 ## November 2020
 
 ### Change notifications
