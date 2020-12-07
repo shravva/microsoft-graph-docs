@@ -11,6 +11,15 @@ author: "MSGraphDocsvTeam"
 
 Namespace: microsoft.graph
 
+### invitationStatus values
+
+| Member
+|:---
+|PendingAcceptance
+|Completed
+|InProgress
+|Error
+
 ### volumeType values
 
 | Member
