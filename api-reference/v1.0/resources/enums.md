@@ -11,6 +11,15 @@ doc_type: enumPageType
 
 Namespace: microsoft.graph
 
+### invitationStatus values
+
+| Member
+|:---
+|PendingAcceptance
+|Completed
+|InProgress
+|Error
+
 ### activityType values
 
 |Member|
