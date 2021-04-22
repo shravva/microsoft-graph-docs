@@ -105,7 +105,7 @@ The following is a JSON representation of the resource.
   "notificationChannelUrl": "string",
   "status": "string",
   "webUrl": "string",
-  "resourcesFolderUrl": "string",
+  "resourcesFolderUrl": "string"
 }
 ```
 
